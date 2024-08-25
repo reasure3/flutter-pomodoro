@@ -1,0 +1,8 @@
+{
+    "@@locale": "en",
+
+    "pomodoro": "Pomodoros",
+    "@pomodoro": {
+        "description": "Used to indicate the number of times completed."
+    }
+}
